@@ -170,8 +170,8 @@ menu:
 
 footer:
   enable_footer: true # show/hide the entire footer
-  footer_title: "Jekyll Curate"
-  footer_description: "Curate is a creative portfolio for Jekyll by Zerostatic Themes."
+  footer_title: "Freedom is a Place"
+  footer_description: "A collective project to imagine and build an abolitionist geography."
   enable_social_media_icons: true
   enable_contact_details: false
   enable_menu_footer_primary: true

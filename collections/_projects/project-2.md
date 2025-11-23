@@ -10,7 +10,7 @@ categories: ["Development"]
 client: "Dubai Star"
 role: "Building Designer"
 gallery:
-  - image: "/assets/images/gen/projects/project-1-1.webp"
+  - image: "https://oaselles.pythonanywhere.com/map?guid=e6lvy2e3if6fr4g5kpydibqwg2ahg9ohfp"
     caption: "<strong>Above:</strong> North easterly aspect showing curved design"
   - image: "/assets/images/gen/projects/project-1-2.webp"
     caption: "<strong>Above:</strong> Rear offices square design in contrast"

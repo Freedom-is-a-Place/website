@@ -2,7 +2,7 @@
 # Jekyll Config
 # --------------------
 baseurl: "/website"
-url: ""
+url: "https://github.com/Freedom-is-a-Place/"
 permalink: pretty
 markdown: kramdown
 highlighter: rouge

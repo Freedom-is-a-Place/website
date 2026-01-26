@@ -50,7 +50,7 @@ Identifying these patterns means understanding solidarity isn’t merely “supp
 
 Solidarity forever. 
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
+
 
 # Who are we?
 

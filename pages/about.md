@@ -48,7 +48,7 @@ She also underscores the importance of analyzing the red and the green not only 
 
 Identifying these patterns means understanding solidarity isn’t merely “supporting people over there.” It is recognizing that the map itself is shared—that the forces harming people abroad are the same forces shaping conditions at home. And that sharpening our abolitionist strategies at home responds to and shapes shared geographies structurally. 
 
-**Freedom is a Place** is a collective project, our humble attempt at documenting, studying, and ultimately, contributing to the place-making in the city of Baltimore. We invite you to view this project as your own, and please get in touch with us if you would like to host your research here or help contribute to this project of abolition geography! As we grow this project, we hope to skill share so that you can translate these methods to your own local places and geographies. 
+**Freedom is a Place** is a collective project, our humble attempt at documenting, studying, and ultimately, organizing to making freedom a place in the city of Baltimore. We invite you to view this project as your own, and please get in touch with us if you would like to host your research here or help contribute to this project of abolition geography! As we grow this project, we hope to skill share so that you can translate these methods to your own local places and geographies. 
 
 Solidarity forever. 
 
@@ -56,7 +56,7 @@ Solidarity forever.
 
 # Who are we?
 
-We started this project as two comrades, Owen and Janvi, who organize together towards the abolition of prisons and policing in Baltimore with the community-led organization, the Baltimore Abolition Movement. 
+We started this project as two comrades, Janvi and Owen, who organize together towards the abolition of prisons and policing in Baltimore with the community-led organization, the Baltimore Abolition Movement. 
 
 ## Janvi 
 janvi's blurb here - work in progress 

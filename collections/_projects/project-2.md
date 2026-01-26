@@ -10,7 +10,7 @@ categories: ["Development"]
 client: "Dubai Star"
 role: "Building Designer"
 gallery:
-  - image: <iframe src="https://www.google.com/maps/d/embed?mid=1n1xdjvN3DiuKoJxmnkJrFnxNkPs&ehbc=2E312F" width="640" height="480"></iframe>
+  - image:
     caption: "<strong>Above:</strong> North easterly aspect showing curved design"
   - image: "/assets/images/gen/projects/project-1-2.webp"
     caption: "<strong>Above:</strong> Rear offices square design in contrast"

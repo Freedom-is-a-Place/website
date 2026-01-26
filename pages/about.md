@@ -39,7 +39,7 @@ Gilmore’s idea of red and green mapping is a method for understanding how stat
 
 Gilmore explains that in order to transform the world, we need to understand both the red and the green as intertwined. **Places being harmed by police and abandonment are also the places where people resist and create new forms of care.**
 
-
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/ACM-acma_orengoFGR20-000001.jpg" title="Freddie Gray Riots" caption="Freddie Gray riot: North Ave & N. Carey St., in West Baltimore (police stand in front line formation)" alt="Photo of kid in red hoody confronting police" link="https://anacostia.si.edu/collection/archives/object/sova-acma-06-085-ref563" target="\_blank" %}
 
 She also underscores the importance of analyzing the red and the green not only locally but also to understand how struggles are connected across borders. The same forces producing dispossesion in one place produce it elsewhere. The same debt regimes (the IMF and the World Bank) draining public budgets in the Global South mirror austerity and abandonment in U.S. cities. The same corporations siting toxic industries in the U.S. South are extracting minerals in West Africa. **Recognizing this pattern is what makes international solidarity rational, not moralistic.** The red maps show how struggles are materially linked, and the green maps show how solutions resonate across place. When you overlay the two globally, you’re able to identify, for example:
 - the same supply chains producing both environmental devastation and migrant labor precarity

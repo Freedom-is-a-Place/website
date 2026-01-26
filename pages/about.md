@@ -4,7 +4,7 @@ title: "About Us"
 date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
 description: "what it means for freedom to be a place"
-image: "/assets/images/gen/content/content-5.webp"
+image: "/assets/images/gen/content/ACM-acma_orengoFGR20-000001.jpg"
 ---
 
 # About the project

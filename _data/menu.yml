@@ -24,7 +24,7 @@ main:
       - name: "Empire"
         icon: "/assets/images/icons/wireframe-6.svg"
         icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
-        description: "Left side layout"
+        description: "Mapping Baltimore as an Internal Colony"
         url: /projects/empire/
 
   - name: Skill Share

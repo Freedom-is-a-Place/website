@@ -7,7 +7,7 @@ weight: 2
 thumbnail: "/assets/images/gen/projects/riots-freddiegray-blackbutterfly.webp"
 image: "/assets/images/gen/projects/riots-freddiegray-blackbutterfly.webp"
 client: "Region of Valencia"
-categories: ["Green","Resistance"]
+categories: ["Green"]
 role: "Building Designer"
 gallery:
   - image: "/assets/images/gen/projects/riots-freddiegray-blackbutterfly.webp"

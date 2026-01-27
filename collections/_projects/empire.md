@@ -1,6 +1,6 @@
 ---
 layout: project-top
-title: "Mapping Empire"
+title: "Empire"
 description: "Baltimore as an internal colony"
 date: 2026-01-26
 weight: 4
@@ -8,7 +8,7 @@ permalink: /projects/empire
 thumbnail: "/assets/images/gen/projects/project-4-6-thumbnail.webp"
 image: "/assets/images/gen/projects/project-4-1.webp"
 client: "RGA Agency"
-categories: ["Red","Empire"]
+categories: ["Red"]
 role: "Building Designer"
 gallery:
   - image: "/assets/images/gen/projects/project-4-1.webp"

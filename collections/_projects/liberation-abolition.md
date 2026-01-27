@@ -6,7 +6,7 @@ date: 2026-01-26
 weight: 1
 thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-1-2.webp"
-categories: ["Green", "Abolition"]
+categories: ["Green"]
 client: "Dubai Star"
 role: "Building Designer"
 gallery:

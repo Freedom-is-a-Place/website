@@ -9,6 +9,10 @@ image: "/assets/images/gen/content/ACM-acma_orengoFGR20-000001.jpg"
 
 # About the project
 
+**Freedom is a Place** is a collective project, our humble attempt at documenting, studying, and ultimately, organizing to making freedom a place in the city of Baltimore. We invite you to view this project as your own, and please get in touch with us if you would like to host your research here or help contribute to this project of abolition geography! As we grow this project, we hope to skill share so that you can translate these methods to your own local places and geographies. 
+
+## Where does the phrase *Freedom is a Place* come from?
+
 Ruth Wilson Gilmore’s phrase **“freedom is a place”** means that **freedom is not only an idea or a feeling—it has to be material, organized, and built in the real world.**
 
 > *“Abolition geography starts from the homely premise that freedom is a place. Place-making is normal human activity: we figure out how to combine people, and land, and other resources with our social capacity to organize ourselves in a variety of ways…”*
@@ -46,11 +50,7 @@ She also underscores the importance of analyzing the red and the green not only 
 - the same military networks connecting policing in Baltimore to the Israeli Occupation Forces in occupied Palestine
 - the same climate forces driving community organizing around water, food, land, and survival
 
-Identifying these patterns means understanding solidarity isn’t merely “supporting people over there.” It is recognizing that the map itself is shared—that the forces harming people abroad are the same forces shaping conditions at home. And that sharpening our abolitionist strategies at home responds to and shapes shared geographies structurally. 
-
-**Freedom is a Place** is a collective project, our humble attempt at documenting, studying, and ultimately, organizing to making freedom a place in the city of Baltimore. We invite you to view this project as your own, and please get in touch with us if you would like to host your research here or help contribute to this project of abolition geography! As we grow this project, we hope to skill share so that you can translate these methods to your own local places and geographies. 
-
-Solidarity forever. 
+Identifying these patterns means understanding solidarity isn’t merely *“supporting people over there”*, it is recognizing that the map *itself* is shared. The forces harming people abroad are the same forces shaping conditions at home. And that sharpening our abolitionist strategies at home responds to and shapes shared geographies structurally. 
 
 
 

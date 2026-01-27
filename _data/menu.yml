@@ -44,8 +44,8 @@ footer_primary:
     url: /projects/project-2/
   - name: "Project 3"
     url: /projects/project-3/
-  - name: "Project 4"
-    url: /projects/project-4/
+  - name: "Prisons and Confinement"
+    url: /projects/prisons-confinement/
 
 footer_secondary:
   - name: Skill Share

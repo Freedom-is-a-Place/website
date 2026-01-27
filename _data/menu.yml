@@ -5,29 +5,30 @@ main:
   - name: Projects
     url: /projects/
     weight: 2
-    child:
-      - name: "Project Layout 1"
+    child:   
+      - name: "Prisons and Confinement"
+        icon: "/assets/images/icons/wireframe-8.svg"
+        icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
+        description: "Prisons and Confinement Project"
+        url: /projects/prisons-confinement/
+      - name: "Resistance and Riots"
         icon: "/assets/images/icons/wireframe-7.svg"
         icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
-        description: "Default Project layout"
-        url: /projects/project-1/
-      - name: "Project Layout 2"
+        description: "Resistance and Riots Project"
+        url: /projects/resistance-riots/   
+      - name: "Liberation and Abolition"
         icon: "/assets/images/icons/wireframe-5.svg"
         icon_darkmode: "/assets/images/icons/wireframe-5-white.svg"
-        description: "Right side layout"
-        url: /projects/project-2/
-      - name: "Project Layout 3"
+        description: "Liberation and Abolition Project"
+        url: /projects/liberation-abolition/
+      - name: "Empire"
         icon: "/assets/images/icons/wireframe-6.svg"
         icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
         description: "Left side layout"
-        url: /projects/project-3/
-      - name: "Project Layout 4"
-        icon: "/assets/images/icons/wireframe-8.svg"
-        icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
-        description: "Top layout"
-        url: /projects/project-4/
-  - name: Blog
-    url: /blog/
+        url: /projects/empire/
+
+  - name: Skill Share
+    url: /skillshare/
     weight: 2
   - name: About
     url: /about/
@@ -44,12 +45,12 @@ footer_primary:
     url: /projects/project-2/
   - name: "Project 3"
     url: /projects/project-3/
-  - name: "Project 4"
-    url: /projects/project-4/
+  - name: "Prisons and Confinement"
+    url: /projects/prisons-confinement/
 
 footer_secondary:
-  - name: Blog
-    url: /blog/
+  - name: Skill Share
+    url: /skillshare/
     weight: 2
   - name: About
     url: /about/

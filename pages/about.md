@@ -4,10 +4,14 @@ title: "About Us"
 date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
 description: "what it means for freedom to be a place"
-image: "/assets/images/gen/content/content-5.webp"
+image: "/assets/images/gen/content/ACM-acma_orengoFGR20-000001.jpg"
 ---
 
 # About the project
+
+**Freedom is a Place** is a collective project, our humble attempt at documenting, studying, and ultimately, organizing to making freedom a place in the city of Baltimore. We invite you to view this project as your own, and please get in touch with us if you would like to host your research here or help contribute to this project of abolition geography! As we grow this project, we hope to skill share so that you can translate these methods to your own local places and geographies. 
+
+## Where does the phrase *Freedom is a Place* come from?
 
 Ruth Wilson Gilmore’s phrase **“freedom is a place”** means that **freedom is not only an idea or a feeling—it has to be material, organized, and built in the real world.**
 
@@ -39,22 +43,20 @@ Gilmore’s idea of red and green mapping is a method for understanding how stat
 
 Gilmore explains that in order to transform the world, we need to understand both the red and the green as intertwined. **Places being harmed by police and abandonment are also the places where people resist and create new forms of care.**
 
+{% include framework/shortcodes/figure.html src="/assets/images/gen/content/ACM-acma_orengoFGR20-000001.jpg" title="Freddie Gray Riots" caption="Freddie Gray riot: North Ave & N. Carey St., in West Baltimore (police stand in front line formation)" alt="Photo of kid in red hoody confronting police" link="https://anacostia.si.edu/collection/archives/object/sova-acma-06-085-ref563" target="\_blank" %}
+
 She also underscores the importance of analyzing the red and the green not only locally but also to understand how struggles are connected across borders. The same forces producing dispossesion in one place produce it elsewhere. The same debt regimes (the IMF and the World Bank) draining public budgets in the Global South mirror austerity and abandonment in U.S. cities. The same corporations siting toxic industries in the U.S. South are extracting minerals in West Africa. **Recognizing this pattern is what makes international solidarity rational, not moralistic.** The red maps show how struggles are materially linked, and the green maps show how solutions resonate across place. When you overlay the two globally, you’re able to identify, for example:
 - the same supply chains producing both environmental devastation and migrant labor precarity
 - the same military networks connecting policing in Baltimore to the Israeli Occupation Forces in occupied Palestine
 - the same climate forces driving community organizing around water, food, land, and survival
 
-Identifying these patterns means understanding solidarity isn’t merely “supporting people over there.” It is recognizing that the map itself is shared—that the forces harming people abroad are the same forces shaping conditions at home. And that sharpening our abolitionist strategies at home responds to and shapes shared geographies structurally. 
+Identifying these patterns means understanding solidarity isn’t merely *“supporting people over there”*, it is recognizing that the map *itself* is shared. The forces harming people abroad are the same forces shaping conditions at home. And that sharpening our abolitionist strategies at home responds to and shapes shared geographies structurally. 
 
-**Freedom is a Place** is a collective project, our humble attempt at documenting, studying, and ultimately, contributing to the place-making in the city of Baltimore. We invite you to view this project as your own, and please get in touch with us if you would like to host your research here or help contribute to this project of abolition geography! As we grow this project, we hope to skill share so that you can translate these methods to your own local places and geographies. 
 
-Solidarity forever. 
-
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="\_blank" %}
 
 # Who are we?
 
-We started this project as two comrades, Owen and Janvi, who organize together towards the abolition of prisons and policing in Baltimore with the community-led organization, the Baltimore Abolition Movement. 
+We started this project as two comrades, Janvi and Owen, who organize together towards the abolition of prisons and policing in Baltimore with the community-led organization, the Baltimore Abolition Movement. 
 
 ## Janvi 
 janvi's blurb here - work in progress 

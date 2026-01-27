@@ -2,9 +2,9 @@
 layout: home
 permalink: "/"
 title: "Freedom is a <strong>Place</strong>"
-description: "Showcase your projects, work or case studies in style with this markdown powered portfolio theme for Jekyll."
-meta_description: "Jekyll Curate is a premium Jekyll blog theme"
-meta_title: Jekyll Curate - Premium Portfolio Theme
+description: "A collective project to imagine and build an abolitionist geography. Baltimore, Maryland."
+meta_description: "A collective project to imagine and build an abolitionist geography. Baltimore, Maryland."
+meta_title: Freedom is a Place
 subscribe: false
 
 projects:
@@ -22,6 +22,6 @@ posts:
   limit: 3
   sort: date # date | weight
   view_more_button_text: ""
-  view_more_button_link: "" # "/blog"
+  view_more_button_link: "" # "/skillshare"
   columns: 3 # 1 | 2 | 3 | 4
 ---

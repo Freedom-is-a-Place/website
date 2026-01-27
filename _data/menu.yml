@@ -21,11 +21,11 @@ main:
         icon_darkmode: "/assets/images/icons/wireframe-6-white.svg"
         description: "Left side layout"
         url: /projects/project-3/
-      - name: "Project Layout 4"
+      - name: "Prisons and Confinement"
         icon: "/assets/images/icons/wireframe-8.svg"
         icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
-        description: "Top layout"
-        url: /projects/project-4/
+        description: "Prisons and Confinement Project"
+        url: /projects/prisons-confinement/
   - name: Skill Share
     url: /skillshare/
     weight: 2

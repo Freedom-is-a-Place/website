@@ -6,7 +6,7 @@ date: 2026-01-26
 weight: 3
 thumbnail: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
 image: "/assets/images/gen/projects/project-2-1.webp"
-categories: ["Prisons"]
+categories: ["Red", "Prisons"]
 client: "Baltimore, MD"
 gallery:
   - image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
@@ -29,3 +29,5 @@ What fills the vacuum created by that abandonment? The state’s response to mai
 As Ruth Wilson Gilmore explains:
 
 > *“In other words, against the scandal of documented deliberate neglect, criminalization remains a complicated means and process to achieve a simple thing: to enclose people in situations where they are expected, and in many ways compelled, to sicken and so die.”*
+
+Heath Pearson, in *Carceral Capitalism in the Making*, argues that the carceral state isn’t just cages or prison walls. Confinement is any **spatial, economic, or social arrangement** that restricts a population’s capacity to move, act, survive, or even imagine otherwise.

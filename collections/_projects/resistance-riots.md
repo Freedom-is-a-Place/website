@@ -1,20 +1,18 @@
 ---
-layout: project-right
-title: "Brutalist Office Building"
-description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
-date: 2018-11-03T10:20:00Z
-weight: 1
-thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-1-2.webp"
-categories: ["Development"]
-client: "Dubai Star"
+layout: project-left
+title: "Resistance and Riots"
+description: "A spectacular building, designed by the Valencian architect Santiago Calatrava."
+date: 2026-01-26
+weight: 2
+thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
+image: "/assets/images/gen/projects/project-3-1.webp"
+client: "Region of Valencia"
+categories: ["Green","Resistance"]
 role: "Building Designer"
 gallery:
-  - image:
-    caption: "<strong>Above:</strong> North easterly aspect showing curved design"
-  - image: "/assets/images/gen/projects/project-1-2.webp"
-    caption: "<strong>Above:</strong> Rear offices square design in contrast"
-gallery_limit: 2
+  - image: "/assets/images/gen/projects/project-3-1.webp"
+  - image: "/assets/images/gen/projects/project-3-4.webp"
+  - image: "/assets/images/gen/projects/project-3-7.webp"
 ---
 
 Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.

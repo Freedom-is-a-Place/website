@@ -1,16 +1,16 @@
 ---
 layout: project-left
 title: "Resistance and Riots"
-description: "A spectacular building, designed by the Valencian architect Santiago Calatrava."
+description: "Mapping sites of resistance and riots."
 date: 2026-01-26
 weight: 2
-thumbnail: "/assets/images/gen/projects/project-3-1-thumbnail.webp"
-image: "/assets/images/gen/projects/project-3-1.webp"
+thumbnail: "/assets/images/gen/projects/riots-freddiegray-blackbutterfly.webp"
+image: "/assets/images/gen/projects/riots-freddiegray-blackbutterfly.webp"
 client: "Region of Valencia"
 categories: ["Green","Resistance"]
 role: "Building Designer"
 gallery:
-  - image: "/assets/images/gen/projects/project-3-1.webp"
+  - image: "/assets/images/gen/projects/riots-freddiegray-blackbutterfly.webp"
   - image: "/assets/images/gen/projects/project-3-4.webp"
   - image: "/assets/images/gen/projects/project-3-7.webp"
 ---

@@ -2,8 +2,8 @@
 layout: home
 permalink: "/"
 title: "Freedom is a <strong>Place</strong>"
-description: "A collective project to imagine and build an abolitionist geography."
-meta_description: "A collective project to imagine and build an abolitionist geography."
+description: "A collective project to imagine and build an abolitionist geography. Baltimore, Maryland."
+meta_description: "A collective project to imagine and build an abolitionist geography. Baltimore, Maryland."
 meta_title: Freedom is a Place
 subscribe: false
 

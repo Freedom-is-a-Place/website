@@ -39,14 +39,15 @@ main:
   
 
 footer_primary:
-  - name: "Project 1"
-    url: /projects/project-1/
-  - name: "Project 2"
-    url: /projects/project-2/
-  - name: "Project 3"
-    url: /projects/project-3/
   - name: "Prisons and Confinement"
     url: /projects/prisons-confinement/
+  - name: "Resistance and Riots"
+    url: /projects/resistance-riots/
+  - name: "Liberation and Abolition"
+    url: /projects/liberation-abolition/
+  - name: "Empire"
+    url: /projects/empire/
+
 
 footer_secondary:
   - name: Skill Share

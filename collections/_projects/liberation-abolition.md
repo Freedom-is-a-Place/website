@@ -7,7 +7,7 @@ weight: 1
 thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-1-2.webp"
 categories: ["Green"]
-client: "Dubai Star"
+client: "Baltimore, MD."
 role: "Building Designer"
 gallery:
   - image:

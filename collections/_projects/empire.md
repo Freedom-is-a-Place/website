@@ -18,7 +18,7 @@ gallery:
 
 
 Map here:
-* Anchor institutions – pro
+* Anchor institutions – JHU
 * Land development (ebdi/ public property acquired by JHU) 
 * Hopkins shuttle maps
 * demographics 

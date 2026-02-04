@@ -6,7 +6,7 @@ date: 2026-01-26
 weight: 2
 thumbnail: "/assets/images/gen/projects/riots-freddiegray-blackbutterfly.webp"
 image: "/assets/images/gen/projects/riots-freddiegray-blackbutterfly.webp"
-client: "Region of Valencia"
+client: "Mass movements in Baltimore"
 categories: ["Green"]
 role: "Building Designer"
 gallery:
@@ -15,8 +15,11 @@ gallery:
   - image: "/assets/images/gen/projects/project-3-7.webp"
 ---
 
-Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+maps go here:
+* ICE facilities 
+* Freddie gray sites of resistance
+* BPD killings of 2025
+* Gun Violence
+* protest routes
+* demographics
 
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
-
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues.

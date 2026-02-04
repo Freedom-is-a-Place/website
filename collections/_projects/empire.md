@@ -22,5 +22,12 @@ Map here:
 * Land development (ebdi/ public property acquired by JHU) 
 * Hopkins shuttle maps
 * demographics 
-* jhu gentrifying the middle east neighborhood gif 
+* jhu gentrifying the middle east neighborhood gif
+
+  
+<p align="center">
+  <img src="./assets/images/gen/projects/jhu_gentrifies_ME_lr.gif" alt="Gentrification GIF" width="400" style="padding: 10px;" />
+  <em>JHU's private development, using eminent domain, that razed the Middle East Neighborhood in E. Baltimore to the ground to pave way for the Johns Hopkins Medical Empire. Displaced approximately 800 Black and Brown families from their homes. .</em>
+</p>
+
 

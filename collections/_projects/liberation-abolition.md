@@ -25,3 +25,15 @@ This work must simultaneously critique and reimagine, tear down and build up.
 We seek to answer: what will stand in the place of what we are dismantling? What are we building to grow in the gaps that empire leaves behind? How will we join efforts to build infrastructure that serves liberation? What will replace extraction and generate wealth for our people? How will we create systems for dignified work?
 
 future leaning, dreaming geography maps here
+
+map of what currently exists:
+* Adopt a lot program 
+* Community garden spaces 
+* Food pantries
+* Leftist institutions  
+* Union offices, worker owned collectives, art collectives (nomu nomu) 
+* Book stores?
+* Crime improvement
+* Libraries 
+* Bike lanes? 
+

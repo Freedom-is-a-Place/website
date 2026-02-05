@@ -2,12 +2,12 @@ janvi_madhani:
   title: "Janvi Madhani"
   name: "Janvi Madhani"
   job: false
-  image: "assets/images/team/sage-kirk.jpg"
+  image: "assets/images/team/janvi_jhpd.jpeg"
   bio: Labor and community organizer against empire. Guided by feelings of revolutionary love. 
 owen_selles:
   title: "Owen Selles"
   name: "Owen Selles"
   job: False
-  image: "assets/images/team/mike-vance.jpg"
+  image: False
   bio: False
 

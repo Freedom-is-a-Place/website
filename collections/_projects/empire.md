@@ -5,7 +5,7 @@ description: "Baltimore as an internal colony"
 date: 2026-01-26
 weight: 4
 permalink: /projects/empire
-thumbnail: "/assets/images/gen/projects/project-4-6-thumbnail.webp"
+thumbnail: "/assets/images/gen/projects/jhu_gentrifies_ME_lr.gif"
 image: "/assets/images/gen/projects/project-4-1.webp"
 categories: ["Red"]
 role: "Building Designer"

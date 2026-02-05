@@ -7,7 +7,6 @@ weight: 4
 permalink: /projects/empire
 thumbnail: "/assets/images/gen/projects/project-4-6-thumbnail.webp"
 image: "/assets/images/gen/projects/project-4-1.webp"
-client: "Baltimore as an internal colony"
 categories: ["Red"]
 role: "Building Designer"
 gallery:

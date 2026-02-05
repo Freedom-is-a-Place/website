@@ -6,6 +6,7 @@ permalink: "/contact/"
 
 ## Contact Info
 
-- **Email:** <a href="mailto:example@example.com">example@example.com</a>
-- **Phone:** +61 0417 123 XXX
-- **Address:** Clem Jones Promenade, South Brisbane QLD 4101
+Interested in collaborating on a project? Want to host maps you've made here? Or share a skill with the community in our Skill Share feed? Just want to chat? Don't hesitate to email us! We'd love to talk and want this project to be truly a collective effort! 
+
+- **Email:** <a href="mailto:freedomisaplace@proton.me">freedomisaplace@proton.me</a>
+

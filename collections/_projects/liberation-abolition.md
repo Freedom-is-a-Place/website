@@ -7,8 +7,6 @@ weight: 1
 thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-1-2.webp"
 categories: ["Green"]
-client: "Baltimore, MD."
-role: "Building Designer"
 gallery:
   - image:
     caption: "<strong>Above:</strong> North easterly aspect showing curved design"

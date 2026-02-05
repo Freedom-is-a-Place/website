@@ -178,7 +178,7 @@ footer:
   enable_menu_footer_secondary: true
   enable_menu_footer_tertiary: false
   footer_primary_menu_title: "Our Projects"
-  footer_secondary_menu_title: "Company"
+  footer_secondary_menu_title: "For the Collective"
   footer_tertiary_menu_title: "Other"
 
 bottom:

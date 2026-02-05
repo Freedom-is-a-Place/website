@@ -26,7 +26,7 @@ Map here:
 
 
 <p align="center">
-  ![Demo]([/assets/images/gen/projects/jhu_gentrifies_ME_lr.gif](https://github.com/Freedom-is-a-Place/website/blob/main/assets/images/gen/projects/jhu_gentrifies_ME_lr.gif))
+  <img src="/assets/images/gen/projects/jhu_gentrifies_ME_lr.gif" width="600">
   <em>JHU's private development, using eminent domain, that razed the Middle East Neighborhood in E. Baltimore to the ground to pave way for the Johns Hopkins Medical Empire. Displaced approximately 800 Black and Brown families from their homes. .</em>
 </p>
 

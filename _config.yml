@@ -63,6 +63,8 @@ exclude:
   - LICENSE
   - netlify.toml
 
+include:
+  - "*.gif"
 
 # -------------------
 # Theme Config

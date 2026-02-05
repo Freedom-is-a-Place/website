@@ -25,7 +25,6 @@ This, the building and making of life-giving places and liberatory spaces, is **
 
 An important foundation of building an abolition geography is understanding the idea of organized abandonment. **Organized abandonment**, as explained by Gilmore, refers to the deliberate, systematic withdrawal of resources, protections, and opportunities from certain communities—typically poor, Black, brown, immigrant, and working-class populations.
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
 
 ## Mapping "Red" and "Green"
 

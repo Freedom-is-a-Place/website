@@ -7,7 +7,6 @@ weight: 3
 thumbnail: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
 image: "/assets/images/gen/projects/project-2-1.webp"
 categories: ["Red"]
-client: "Baltimore, MD"
 gallery:
   - image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
   - image: "/assets/images/gen/projects/project-2-2.webp"

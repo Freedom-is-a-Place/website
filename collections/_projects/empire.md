@@ -27,4 +27,4 @@ Map here:
 * demographics 
 * jhu gentrifying the middle east neighborhood gif
 
-
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23B39DDB&ctz=America%2FNew_York&showPrint=1&src=amFudmltYWRoYW5pQGdtYWlsLmNvbQ&src=bnl0aW1lcy5jb21fODlhaTRpanBiNzMzZ3QyOHJnMjFkMmMyZWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=djFlMzY4NmQwY3FsY3ExNG1jMzRtaGM4bWxocWdmNXRAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23cb972d&color=%23E4C441&color=%233F51B5" style="border-width:0" width="800" height="600" frameborder="0" scrolling="yes"></iframe>

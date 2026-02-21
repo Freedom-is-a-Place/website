@@ -10,3 +10,5 @@ Interested in collaborating on a project? Want to host maps you've made here? Or
 
 - **Email:** <a href="mailto:freedomisaplace@proton.me">freedomisaplace@proton.me</a>
 
+
+<iframe src="https://cal.com/freedomisaplace" style="border-width:0" width="800" height="600" frameborder="0" scrolling="yes"></iframe>

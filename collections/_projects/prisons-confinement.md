@@ -31,7 +31,9 @@ As Ruth Wilson Gilmore explains:
 
 Heath Pearson, in *Carceral Capitalism in the Making*, argues that the carceral state isn’t just cages or prison walls. Confinement is any **spatial, economic, or social arrangement** that restricts a population’s capacity to move, act, survive, or even imagine otherwise.
 
-
+# Schedule a Time to Meet With Me:
+Send me an [email](mailto:jmadhan1@jhu.edu) to schedule a meeting. 
+<iframe src="https://oaselles.pythonanywhere.com/map?guid=bxtp4amh7vg5kf3m" style="border-width:0" width="800" height="600" frameborder="0" scrolling="yes"></iframe>
 
 maps will go here:
 * Prisons

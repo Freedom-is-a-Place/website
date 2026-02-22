@@ -62,7 +62,8 @@ An important foundation of building an abolition geography is understanding the 
   <li> the same climate forces driving community organizing around water, food, land, and survival</li>
 </ul>
 
-<p> Identifying these patterns means understanding solidarity isn’t merely <i>“supporting people over there”</i>, it is recognizing that the map <i>itself</i> is shared. The forces harming people abroad are the same forces shaping conditions at home. And that sharpening our abolitionist strategies at home responds to and shapes shared geographies structurally. </p>
+<p> Identifying these patterns means understanding solidarity isn’t merely <i>“supporting people over there”</i>, it is recognizing that the map <i>itself</i> is shared. The forces harming people abroad are the same forces shaping conditions at home. And that sharpening our abolitionist strategies at home responds to and shapes shared geographies structurally.</p>
+
 </details>
 
 

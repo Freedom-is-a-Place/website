@@ -21,13 +21,17 @@ She pushes back against the idea that liberation is simply about changing laws o
 
 This, the building and making of life-giving places and liberatory spaces, is **abolition geography**. 
 
-## Organized Abandonment
-
+<details>
+<summary><h2>Organized Abandonment</h2></summary>
+<br>
 An important foundation of building an abolition geography is understanding the idea of organized abandonment. **Organized abandonment**, as explained by Gilmore, refers to the deliberate, systematic withdrawal of resources, protections, and opportunities from certain communities—typically poor, Black, brown, immigrant, and working-class populations.
+</details>
 
 
-## Mapping "Red" and "Green"
 
+<details>
+<summary><h2>Mapping "Red" and "Green" </h2></summary>
+<br>
 In this project, we adopt Gilmore's idea of mapping along "red" and "green" to understand how landscapes are produced through racial capitalism. 
 
 Gilmore’s idea of red and green mapping is a method for understanding how state power, capital, and environmental conditions shape life chances across space. 
@@ -50,6 +54,8 @@ She also underscores the importance of analyzing the red and the green not only 
 - the same climate forces driving community organizing around water, food, land, and survival
 
 Identifying these patterns means understanding solidarity isn’t merely *“supporting people over there”*, it is recognizing that the map *itself* is shared. The forces harming people abroad are the same forces shaping conditions at home. And that sharpening our abolitionist strategies at home responds to and shapes shared geographies structurally. 
+</details>
+
 
 
 

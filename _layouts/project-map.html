@@ -1,0 +1,81 @@
+---
+layout: default
+body_classes: page-project
+---
+
+{% assign limit = page.gallery_limit | default: 2 %}
+
+<div class="section">
+  <div class="container">
+    {% if page.gallery %}
+    <div class="row mb-6">
+      <div class="col">
+        <div class="gallery gallery-two-column">
+          {% for item in page.gallery limit: limit %}
+          <div class="gallery-item">
+            <div class="gallery-image"><img src="{{ item.image | relative_url }}" /></div>
+            <div class="gallery-caption">{{ item.caption }}</div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    {% endif %}
+
+
+
+<div class="section">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        {% include framework/heading.html
+          title=page.title
+          description=page.description
+          image=page.image
+        %}
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section pt-0">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8">
+        
+        {% if page.authors %}
+          <div class="mb-2">
+          {% for author in page.authors %}
+            {% include framework/author.html 
+            author=author
+            style='row'
+            show_author_name=true
+          %}
+          {% endfor %}
+          </div>
+        {% endif %}
+
+        {% if page.categories %}
+        <div class="categories">
+        {% include framework/categories-badges.html 
+            categories=page.categories
+        %}
+        {% endif %}
+        
+        <div class="content">{{ content }}</div>
+
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+    
+

@@ -1,20 +1,15 @@
 ---
-layout: project # alternative layouts: project, project-left, project-right, project-top
+layout: project-map # alternative layouts: project, project-left, project-right, project-top
 title: "Prisons and Confinement"
 description: "Understanding prisons and confinement through the lens of racial capitalism"
 date: 2026-01-26
 weight: 3
 thumbnail: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
-image: "/assets/images/gen/projects/project-2-1.webp"
+image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
 categories: ["Red"]
-client: "Baltimore, MD"
 gallery:
   - image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
-  - image: "/assets/images/gen/projects/project-2-2.webp"
-  - image: "/assets/images/gen/projects/project-2-5.webp"
-  - image: "/assets/images/gen/projects/project-2-4.webp"
-  - image: "/assets/images/gen/projects/project-2-3.webp"
-  - image: "/assets/images/gen/projects/project-2-6.webp"
+  - image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
 ---
 
 # Confinement
@@ -32,8 +27,10 @@ As Ruth Wilson Gilmore explains:
 
 Heath Pearson, in *Carceral Capitalism in the Making*, argues that the carceral state isn’t just cages or prison walls. Confinement is any **spatial, economic, or social arrangement** that restricts a population’s capacity to move, act, survive, or even imagine otherwise.
 
+# Map testing
+<iframe src="https://oaselles.pythonanywhere.com/map?guid=s47ypegy3ij1g4" style="border-width:0" width="800" height="600" frameborder="0" scrolling="yes"></iframe>
 
-
+Type `L:` into the search bar to overlay layers while we update the map
 maps will go here:
 * Prisons
 * Redlining

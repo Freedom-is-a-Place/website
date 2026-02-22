@@ -1,17 +1,16 @@
 ---
-layout: project-right
+layout: project-map
 title: "Liberation and Abolition"
-description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
+description: "Freedom as place making and relationship building"
 date: 2026-01-26
 weight: 1
 thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-1-2.webp"
 categories: ["Green"]
 gallery:
-  - image:
-    caption: "<strong>Above:</strong> North easterly aspect showing curved design"
-  - image: "/assets/images/gen/projects/project-1-2.webp"
-    caption: "<strong>Above:</strong> Rear offices square design in contrast"
+  - image:"/assets/images/gen/projects/freddie_gray_black_butterfly.png"
+    caption: "black butterfly"
+  - image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
 gallery_limit: 2
 ---
 

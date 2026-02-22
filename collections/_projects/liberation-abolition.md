@@ -8,8 +8,7 @@ thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-1-2.webp"
 categories: ["Green"]
 gallery:
-  - image:"/assets/images/gen/projects/freddie_gray_black_butterfly.png"
-    caption: "black butterfly"
+  - image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
   - image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
 gallery_limit: 2
 ---

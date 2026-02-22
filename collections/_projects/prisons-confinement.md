@@ -5,15 +5,10 @@ description: "Understanding prisons and confinement through the lens of racial c
 date: 2026-01-26
 weight: 3
 thumbnail: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
-image: "/assets/images/gen/projects/project-2-1.webp"
+image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
 categories: ["Red"]
 gallery:
   - image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
-  - image: "/assets/images/gen/projects/project-2-2.webp"
-  - image: "/assets/images/gen/projects/project-2-5.webp"
-  - image: "/assets/images/gen/projects/project-2-4.webp"
-  - image: "/assets/images/gen/projects/project-2-3.webp"
-  - image: "/assets/images/gen/projects/project-2-6.webp"
 ---
 
 # Confinement

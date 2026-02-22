@@ -57,11 +57,8 @@ Identifying these patterns means understanding solidarity isn’t merely *“sup
 
 We started this project as two comrades, Janvi and Owen, who organize together towards the abolition of prisons and policing in Baltimore with the community-led organization, the Baltimore Abolition Movement. 
 
-## Janvi Madhani
-
-
 <details>
-<summary> ## About Janvi</summary>
+<summary> <h2> Janvi Madhani </h2></summary>
 <br>
 I felt the effects of organized abandonment as a graduate worker at Johns Hopkins University, in Baltimore, MD, before I had Gilmore’s vocabulary to articulate it. 
 Through my organizing on campus, helping build the graduate worker union, [TRU-UE 197](https://trujhu.org), negotiating with the University administration for basic protections for workers, I realized quickly that the university system functioned much less as a site of knowledge production and more as a real estate developer and hedge fund that made decisions based on profit, prestige, and self-preservation. This issue is not unique to Johns Hopkins, but universities in the United States at large, that hoard billions in their endowments, function as outposts of US imperialism, develop war-profiteering technologies and research, and are financially entangled with an international system seeking to maintain the US empire. 
@@ -82,7 +79,13 @@ We invite you to join us, contribute to this project, use these maps to activate
 
 
 
-
-## Owen Selles
-
-owen's blurb here - work in progress 
+<details>
+<summary><h2>Owen Selles</h2></summary>
+<br>
+Why baltimore?
+Our goal: to create a coalition, a collective space, to interpret (?) the abolition geography of Baltimore 
+Committed to open source science, teaching, and skill sharing
+Encouraging people to view this project as their project, to study the complex histories of our city, understand the networks of power, control, resistance, and struggle that run through our geography, dream of new realities, and build towards a collective abolitionist geography 
+To develop new ways to relate to one another and to Baltimore in a politics of care
+This project is a collective call to action, to interpret our political realities, and to intervene in them through the material organization and building of abolitionist spaces – to make freedom a place.  
+</details>

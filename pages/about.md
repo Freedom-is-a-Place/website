@@ -24,7 +24,7 @@ This, the building and making of life-giving places and liberatory spaces, is **
 <details>
 <summary><h2>Organized Abandonment</h2></summary>
 <br>
-An important foundation of building an abolition geography is understanding the idea of organized abandonment. **Organized abandonment**, as explained by Gilmore, refers to the deliberate, systematic withdrawal of resources, protections, and opportunities from certain communities—typically poor, Black, brown, immigrant, and working-class populations.
+An important foundation of building an abolition geography is understanding the idea of organized abandonment. <b>Organized abandonment</b>, as explained by Gilmore, refers to the deliberate, systematic withdrawal of resources, protections, and opportunities from certain communities—typically poor, Black, brown, immigrant, and working-class populations.
 </details>
 
 

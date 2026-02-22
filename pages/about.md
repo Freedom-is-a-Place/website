@@ -9,7 +9,7 @@ image: "/assets/images/gen/content/ACM-acma_orengoFGR20-000001.jpg"
 
 # About the project
 
-**Freedom is a Place** is a collective project, our humble attempt at documenting, studying, and ultimately, organizing to making freedom a place in the city of Baltimore. We invite you to view this project as your own, and please get in touch with us if you would like to host your research here or help contribute to this project of abolition geography! As we grow this project, we hope to skill share so that you can translate these methods to your own local places and geographies. 
+**Freedom is a Place** is a collective project, our humble attempt at documenting, studying, and ultimately, organizing to make freedom a place in the city of Baltimore. We invite you to view this project as your own, and please get in touch with us if you would like to host your research here or help contribute to this project of abolition geography! As we grow this project, we hope to skill share so that you can translate these methods to your own local places and geographies. 
 
 ## Where does the phrase *Freedom is a Place* come from?
 
@@ -57,9 +57,25 @@ Identifying these patterns means understanding solidarity isn’t merely *“sup
 
 We started this project as two comrades, Janvi and Owen, who organize together towards the abolition of prisons and policing in Baltimore with the community-led organization, the Baltimore Abolition Movement. 
 
-## Janvi 
-janvi's blurb here - work in progress 
+## Janvi Madhani
 
-## Owen 
+I felt the effects of organized abandonment as a graduate worker at Johns Hopkins University, in Baltimore, MD, before I had Gilmore’s vocabulary to articulate it. 
+Through my organizing on campus, helping build the graduate worker union, TRU-UE 197, negotiating with the University administration for basic protections for workers, I realized quickly that the university system functioned much less as a site of knowledge production and more as a real estate developer and hedge fund that made decisions based on profit, prestige, and self-preservation. This issue is not unique to Johns Hopkins, but universities in the United States at large, that hoard billions in their endowments, function as outposts of US imperialism, develop war-profiteering technologies and research, and are financially entangled with an international system seeking to maintain the US empire. 
+
+I realized that not only were my coworkers and I being exploited in this system of organized abandonment as underpaid and unprotected workers producing knowledge and research for Hopkins to build its prestige from, but more importantly, our wage relationship to this institution was being used to further Hopkins’ colonial interests in maintaining a violent relationship of organized abandonment with the city of Baltimore, and as I later learned, globally as well. 
+
+Our presence in the city, as privileged members of the Hopkins community, was being leveraged to securitize the border between "us" and "them", "them" being the criminal city of Baltimore. We are told the red lines between privileged Hopkins students and the rest of the city, hard-coded through special Hopkins-only shuttles, securitized by Johns Hopkins private police, and surveilled block by block by city police, are for our “safety”. But I know these vestiges of Jim Crow are nothing more than an attempt to exert institutional, undemocratic control over the city. My response to this tension was to organize with my comrades in the labor movement and community organization, the Baltimore Abolition Movement, for the abolition of the undemocratic and privatized expansion of armed policing, the Johns Hopkins Police Department -- JHU's tool for colonial enforcement. 
+
+It is through this organizing that I understood the power of counter-mapping, illustrating in a new way what Baltimoreans have been elevating for decades. Maps that ask "Who profits from policing these boundaries?”, “Who is inside the prisons and who is outside?", and “How are resources distributed within the city?" help us communicate the urgency of abolition and mobilizing intervention. 
+
+Our horizon set on building an abolition geography, Owen and I started Freedom is a Place -- a collective project, for Baltimoreans and by Baltimoreans, built on decades of grassroots work done in the city, led by examples from critical geographers across the country. 
+
+With this project, I personally hope to study some of these questions: What are we building to grow in the gaps that empire leaves behind? How will we join efforts to build infrastructure that serves liberation? What will replace extraction and generate wealth for our people? How will we create systems for dignified work? 
+
+We invite you to join us, contribute to this project, use these maps to activate organizing, and make this project your own! Please reach out to us if you have an idea, a data set you'd like to see mapped, or any other questions! We are both deeply committed to an open source model of scientific practice built on skill sharing and peer education. 
+
+
+
+## Owen Selles
 
 owen's blurb here - work in progress 

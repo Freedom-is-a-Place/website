@@ -1,5 +1,5 @@
 ---
-layout: project-top
+layout: project-map
 title: "Empire"
 description: "Baltimore as an internal colony"
 date: 2026-01-26
@@ -9,9 +9,8 @@ thumbnail: "/assets/images/gen/projects/jhu_gentrifies_ME_lr.gif"
 image: "/assets/images/gen/projects/jhu_gentrifies_ME_lr.gif"
 categories: ["Red"]
 gallery:
-  - image: "/assets/images/gen/projects/project-4-1.webp"
-  - image: "/assets/images/gen/projects/project-4-4.webp"
-  - image: "/assets/images/gen/projects/project-4-7.webp"
+  - image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
+  - image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
 ---
 
 ![jhu in the middle east](/assets/images/gen/projects/jhu_gentrifies_ME_lr.gif)

@@ -30,6 +30,7 @@ Heath Pearson, in *Carceral Capitalism in the Making*, argues that the carceral 
 # Map testing
 <iframe src="https://oaselles.pythonanywhere.com/map?guid=s47ypegy3ij1g4" style="border-width:0" width="800" height="600" frameborder="0" scrolling="yes"></iframe>
 
+Type `L:` into the search bar to overlay layers while we update the map
 maps will go here:
 * Prisons
 * Redlining

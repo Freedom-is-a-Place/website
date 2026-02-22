@@ -22,24 +22,60 @@ body_classes: page-project
     </div>
     {% endif %}
 
-    <div class="row">
-      <div class="col-12 col-md-6">
-        {% if page.title %}
-        <div class="project-heading">
-          <h1>{{ page.title }}</h1>
-        </div>
-        {% endif %} {% if page.categories %}
-        <div class="project-categories">{% include framework/categories-badges.html categories=page.categories %}</div>
-        {% endif %} {% if page.date %}
-        <div class="project-date"><strong>Date </strong><span>{{ page.date | date_to_long_string }}</span></div>
-        {% endif %} {% if page.description %}
-        <div class="project-description"><strong>Description </strong><span>{{ page.description }}</span></div>
-        {% endif %} 
-      </div>
 
-      <div class="col-12 col-md-6">
-        <div class="content">{{ content }}</div>
+
+  <div class="section">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12">
+        {% include framework/heading.html
+          title=page.title
+          description=page.description
+          image=page.image
+        %}
       </div>
     </div>
   </div>
 </div>
+
+<div class="section pt-0">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-8">
+        
+        {% if page.authors %}
+          <div class="mb-2">
+          {% for author in page.authors %}
+            {% include framework/author.html 
+            author=author
+            style='row'
+            show_author_name=true
+          %}
+          {% endfor %}
+          </div>
+        {% endif %}
+
+        {% if page.categories %}
+        <div class="categories">
+        {% include framework/categories-badges.html 
+            categories=page.categories
+        %}
+        {% endif %}
+        
+        <div class="content">{{ content }}</div>
+
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+    
+

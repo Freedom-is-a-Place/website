@@ -59,6 +59,10 @@ We started this project as two comrades, Janvi and Owen, who organize together t
 
 ## Janvi Madhani
 
+
+<details>
+<summary> ## About Janvi</summary>
+<br>
 I felt the effects of organized abandonment as a graduate worker at Johns Hopkins University, in Baltimore, MD, before I had Gilmore’s vocabulary to articulate it. 
 Through my organizing on campus, helping build the graduate worker union, [TRU-UE 197](https://trujhu.org), negotiating with the University administration for basic protections for workers, I realized quickly that the university system functioned much less as a site of knowledge production and more as a real estate developer and hedge fund that made decisions based on profit, prestige, and self-preservation. This issue is not unique to Johns Hopkins, but universities in the United States at large, that hoard billions in their endowments, function as outposts of US imperialism, develop war-profiteering technologies and research, and are financially entangled with an international system seeking to maintain the US empire. 
 
@@ -73,6 +77,9 @@ Our horizon set on building an abolition geography, Owen and I started Freedom i
 With this project, I personally hope to study some of these questions: What are we building to grow in the gaps that empire leaves behind? How will we join efforts to build infrastructure that serves liberation? What will replace extraction and generate wealth for our people? How will we create systems for dignified work? 
 
 We invite you to join us, contribute to this project, use these maps to activate organizing, and make this project your own! Please reach out to us if you have an idea, a data set you'd like to see mapped, or any other questions! We are both deeply committed to an open source model of scientific practice built on skill sharing and peer education. 
+
+</details>
+
 
 
 

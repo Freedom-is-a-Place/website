@@ -48,10 +48,10 @@ An important foundation of building an abolition geography is understanding the 
   <b>“Green”</b> mapping shows the forces that sustain life: care, resources, resistance, and possibility. 
   <ul style="list-style-type:disc;">
     <li>- It’s a method to identify <b>where people build, nurture, and defend life-giving infrastructures.</b></li>
-    <li>Reveals the infrastructures of survival—the places where people create freedom, not as an abstract ideal but as material, spatial practice..</li>
+    <li>Reveals the infrastructures of survival—the places where people create freedom, not as an abstract ideal but as material, spatial practice.</li>
   </ul>
   
-  <p> Gilmore explains that in order to transform the world, we need to understand both the red and the green as intertwined. <b>Places being harmed by police and abandonment are also the places where people resist and create new forms of care.<b> </p>
+  <p> Gilmore explains that in order to transform the world, we need to understand both the red and the green as intertwined. <b>Places being harmed by police and abandonment are also the places where people resist and create new forms of care.</b> </p>
   
   {% include framework/shortcodes/figure.html src="/assets/images/gen/content/ACM-acma_orengoFGR20-000001.jpg" title="Freddie Gray Riots" caption="Freddie Gray riot: North Ave & N. Carey St., in West Baltimore (police stand in front line formation)" alt="Photo of kid in red hoody confronting police" link="https://anacostia.si.edu/collection/archives/object/sova-acma-06-085-ref563" target="\_blank" %}
   

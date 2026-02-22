@@ -7,6 +7,7 @@ weight: 4
 permalink: /projects/empire/
 thumbnail: "/assets/images/gen/projects/jhu_gentrifies_ME_lr.gif"
 image: "/assets/images/gen/projects/jhu_gentrifies_ME_lr.gif"
+caption: "does this caption show up"
 categories: ["Red"]
 gallery:
   - image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"

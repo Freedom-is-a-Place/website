@@ -1,5 +1,5 @@
 ---
-layout: project-top # alternative layouts: project, project-left, project-right, project-top
+layout: project-map # alternative layouts: project, project-left, project-right, project-top
 title: "Prisons and Confinement"
 description: "Understanding prisons and confinement through the lens of racial capitalism"
 date: 2026-01-26

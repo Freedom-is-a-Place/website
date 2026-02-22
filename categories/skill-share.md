@@ -1,4 +1,4 @@
 ---
 layout: category
-title: skillshare
+title: Skill Share
 ---

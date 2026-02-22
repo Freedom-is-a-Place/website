@@ -6,6 +6,7 @@ date: 2026-01-26
 weight: 1
 thumbnail:  "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
 image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
+caption: "this is a gif, does this caption work?"
 categories: ["Green"]
 gallery:
   - image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"

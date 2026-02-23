@@ -47,7 +47,7 @@ An important foundation of building an abolition geography is understanding the 
   <br>
   <b>“Green”</b> mapping shows the forces that sustain life: care, resources, resistance, and possibility. 
   <ul style="list-style-type:disc;">
-    <li>- It’s a method to identify <b>where people build, nurture, and defend life-giving infrastructures.</b></li>
+    <li>It’s a method to identify <b>where people build, nurture, and defend life-giving infrastructures.</b></li>
     <li>Reveals the infrastructures of survival—the places where people create freedom, not as an abstract ideal but as material, spatial practice.</li>
   </ul>
   

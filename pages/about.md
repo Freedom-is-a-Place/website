@@ -67,7 +67,7 @@ An important foundation of building an abolition geography is understanding the 
 </details>
 
 
-
+Our project here is to use the tools of mapping and counter-mapping in our city of Baltimore and sharpen our abolitionist strategies through deep relationship building, organizing, and political education.  
 
 
 

@@ -11,6 +11,8 @@ image: "/assets/images/gen/content/ACM-acma_orengoFGR20-000001.jpg"
 
 **Freedom is a Place** is a collective project, our humble attempt at documenting, studying, and ultimately, organizing to make freedom a place in the city of Baltimore. We invite you to view this project as your own, and please get in touch with us if you would like to host your research here or help contribute to this project of abolition geography! As we grow this project, we hope to skill share so that you can translate these methods to your own local places and geographies. 
 
+#### Our project here is to use the tools of mapping and counter-mapping in our city of Baltimore and sharpen our abolitionist strategies through deep relationship building, organizing, and political education.  
+
 ## Where does the phrase *Freedom is a Place* come from?
 
 Ruth Wilson Gilmore’s phrase **“freedom is a place”** means that **freedom is not only an idea or a feeling—it has to be material, organized, and built in the real world.**
@@ -66,8 +68,6 @@ An important foundation of building an abolition geography is understanding the 
     
 </details>
 
-
-Our project here is to use the tools of mapping and counter-mapping in our city of Baltimore and sharpen our abolitionist strategies through deep relationship building, organizing, and political education.  
 
 
 

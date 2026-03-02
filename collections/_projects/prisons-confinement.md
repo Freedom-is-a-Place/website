@@ -8,7 +8,7 @@ thumbnail: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
 image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
 categories: ["Red"]
 gallery:
-  - image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
+  - image: "/assets/images/gen/projects/surveillance_confinement.jpg"
   - image: "/assets/images/gen/projects/freddie_gray_black_butterfly.png"
 ---
 

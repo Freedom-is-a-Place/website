@@ -31,5 +31,8 @@ map of what currently exists:
 * Book stores?
 * Crime improvement
 * Libraries 
-* Bike lanes? 
+* Bike lanes?
+* public pools
+* harm reduction orgs + sites
+* where children are safe
 

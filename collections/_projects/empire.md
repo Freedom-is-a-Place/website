@@ -24,6 +24,8 @@ Map here:
 * Hopkins shuttle maps
 * demographics 
 * jhu gentrifying the middle east neighborhood gif
+* live near your work 
+* who is not paying taxes(static) 
 
 
 
